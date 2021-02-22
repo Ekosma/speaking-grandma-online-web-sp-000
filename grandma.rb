@@ -19,6 +19,6 @@ def speak_to_grandma(phrase)
   elsif phrase == "Hi Nana, how are you?"
     return "HUH?! SPEAK UP, SONNY!"
   
-  elsif phrase == 
+  elsif phrase == "Hi!"
  end
 end
